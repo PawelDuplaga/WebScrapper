@@ -1,0 +1,159 @@
+C:\Users\pawel\PycharmProjects\PriceChecker\venv\Scripts\python.exe C:/Users/pawel/PycharmProjects/PriceChecker/WebScapper.py
+___________________________________________________________
+<h6 class="css-v3vynn-Text eu5v0x0">NAJTAŃSZA Koparka Kryptowalut ETH 290 MH RTX 3060ti 3070</h6>
+ <p class="css-wpfvmn-Text eu5v0x0" data-testid="ad-price">11 700 zł</p>
+___________________________________________________________
+<h6 class="css-v3vynn-Text eu5v0x0">Laptop HP OMEN 17-ck0450nd - Jak nowy</h6>
+ <p class="css-wpfvmn-Text eu5v0x0" data-testid="ad-price">7 500 zł</p>
+___________________________________________________________
+<h6 class="css-v3vynn-Text eu5v0x0">PC Gamingowy Rtx3070 intel core i9 32gb ram + monitor + biurko</h6>
+ <p class="css-wpfvmn-Text eu5v0x0" data-testid="ad-price">7 399 zł<style data-emotion-css="e2218f">.css-e2218f{color:#7F9799;font-size:12px;line-height:16px;font-weight:100;display:block;width:100%;}</style><span class="css-e2218f">do negocjacji</span></p>
+___________________________________________________________
+<h6 class="css-v3vynn-Text eu5v0x0">Komputer ZBOX i7-10700 RTX 3070 32GB</h6>
+ <p class="css-wpfvmn-Text eu5v0x0" data-testid="ad-price"><style data-emotion-css="1c0ed4l">.css-1c0ed4l{display:inline-block;}</style><div class="css-1c0ed4l"><style data-emotion-css="1ojrdd5">.css-1ojrdd5{height:24px;width:24px;margin-right:8px;color:#002F34;}</style><svg class="css-1ojrdd5" height="1em" viewbox="0 0 24 24" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M21 15.999h-.343A3.501 3.501 0 0 0 17.5 14a3.501 3.501 0 0 0-3.156 1.997l-4.687.002A3.5 3.5 0 0 0 6.5 14a3.5 3.5 0 0 0-3.158 2L3 16.002V5h11v6l1 1h6v3.999zM17.5 19c-.827 0-1.5-.673-1.5-1.5s.673-1.5 1.5-1.5 1.5.673 1.5 1.5-.673 1.5-1.5 1.5zm-11 0c-.827 0-1.5-.673-1.5-1.5S5.673 16 6.5 16s1.5.673 1.5 1.5S7.327 19 6.5 19zm12-12 2.25 3H16V7h2.5zm1-2H16V4l-1-1H2L1 4v13.002l1.001 1 1.039-.001A3.503 3.503 0 0 0 6.5 21a3.502 3.502 0 0 0 3.46-3l4.08-.003A3.503 3.503 0 0 0 17.5 21a3.502 3.502 0 0 0 3.46-3.001H22l1-1V9.665L19.5 5z" fill="currentColor" fill-rule="evenodd"></path></svg></div>4 700 zł</p>
+___________________________________________________________
+<h6 class="css-v3vynn-Text eu5v0x0">Karta graficzna GIGABYTE GeForce RTX 3070 OC 8GB GDDR6 RGB</h6>
+ <p class="css-wpfvmn-Text eu5v0x0" data-testid="ad-price"><div class="css-1c0ed4l"><svg class="css-1ojrdd5" height="1em" viewbox="0 0 24 24" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M21 15.999h-.343A3.501 3.501 0 0 0 17.5 14a3.501 3.501 0 0 0-3.156 1.997l-4.687.002A3.5 3.5 0 0 0 6.5 14a3.5 3.5 0 0 0-3.158 2L3 16.002V5h11v6l1 1h6v3.999zM17.5 19c-.827 0-1.5-.673-1.5-1.5s.673-1.5 1.5-1.5 1.5.673 1.5 1.5-.673 1.5-1.5 1.5zm-11 0c-.827 0-1.5-.673-1.5-1.5S5.673 16 6.5 16s1.5.673 1.5 1.5S7.327 19 6.5 19zm12-12 2.25 3H16V7h2.5zm1-2H16V4l-1-1H2L1 4v13.002l1.001 1 1.039-.001A3.503 3.503 0 0 0 6.5 21a3.502 3.502 0 0 0 3.46-3l4.08-.003A3.503 3.503 0 0 0 17.5 21a3.502 3.502 0 0 0 3.46-3.001H22l1-1V9.665L19.5 5z" fill="currentColor" fill-rule="evenodd"></path></svg></div>2 600 zł</p>
+___________________________________________________________
+<h6 class="css-v3vynn-Text eu5v0x0">RTX 3070 Gigabyte Gaming OC</h6>
+ <p class="css-wpfvmn-Text eu5v0x0" data-testid="ad-price">2 500 zł</p>
+___________________________________________________________
+<h6 class="css-v3vynn-Text eu5v0x0">PC Ryzen 5 + RTX 3070 Strix</h6>
+ <p class="css-wpfvmn-Text eu5v0x0" data-testid="ad-price">4 800 zł<span class="css-e2218f">do negocjacji</span></p>
+___________________________________________________________
+<h6 class="css-v3vynn-Text eu5v0x0">PC Ryzen 5 + RTX 3070 Strix</h6>
+ <p class="css-wpfvmn-Text eu5v0x0" data-testid="ad-price">4 800 zł<span class="css-e2218f">do negocjacji</span></p>
+___________________________________________________________
+<h6 class="css-v3vynn-Text eu5v0x0">RTX 3070 Asus TUF</h6>
+ <p class="css-wpfvmn-Text eu5v0x0" data-testid="ad-price">2 400 zł</p>
+___________________________________________________________
+<h6 class="css-v3vynn-Text eu5v0x0">GeForce RTX 3070 LHR na gwarancji</h6>
+ <p class="css-wpfvmn-Text eu5v0x0" data-testid="ad-price"><div class="css-1c0ed4l"><svg class="css-1ojrdd5" height="1em" viewbox="0 0 24 24" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M21 15.999h-.343A3.501 3.501 0 0 0 17.5 14a3.501 3.501 0 0 0-3.156 1.997l-4.687.002A3.5 3.5 0 0 0 6.5 14a3.5 3.5 0 0 0-3.158 2L3 16.002V5h11v6l1 1h6v3.999zM17.5 19c-.827 0-1.5-.673-1.5-1.5s.673-1.5 1.5-1.5 1.5.673 1.5 1.5-.673 1.5-1.5 1.5zm-11 0c-.827 0-1.5-.673-1.5-1.5S5.673 16 6.5 16s1.5.673 1.5 1.5S7.327 19 6.5 19zm12-12 2.25 3H16V7h2.5zm1-2H16V4l-1-1H2L1 4v13.002l1.001 1 1.039-.001A3.503 3.503 0 0 0 6.5 21a3.502 3.502 0 0 0 3.46-3l4.08-.003A3.503 3.503 0 0 0 17.5 21a3.502 3.502 0 0 0 3.46-3.001H22l1-1V9.665L19.5 5z" fill="currentColor" fill-rule="evenodd"></path></svg></div>2 850 zł</p>
+___________________________________________________________
+<h6 class="css-v3vynn-Text eu5v0x0">MSI GeForce RTX 3070 Ti SUPRIM X 8GB zamiana na 6800xt</h6>
+ <p class="css-wpfvmn-Text eu5v0x0" data-testid="ad-price"><div class="css-1c0ed4l"><svg class="css-1ojrdd5" height="1em" viewbox="0 0 24 24" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M21 15.999h-.343A3.501 3.501 0 0 0 17.5 14a3.501 3.501 0 0 0-3.156 1.997l-4.687.002A3.5 3.5 0 0 0 6.5 14a3.5 3.5 0 0 0-3.158 2L3 16.002V5h11v6l1 1h6v3.999zM17.5 19c-.827 0-1.5-.673-1.5-1.5s.673-1.5 1.5-1.5 1.5.673 1.5 1.5-.673 1.5-1.5 1.5zm-11 0c-.827 0-1.5-.673-1.5-1.5S5.673 16 6.5 16s1.5.673 1.5 1.5S7.327 19 6.5 19zm12-12 2.25 3H16V7h2.5zm1-2H16V4l-1-1H2L1 4v13.002l1.001 1 1.039-.001A3.503 3.503 0 0 0 6.5 21a3.502 3.502 0 0 0 3.46-3l4.08-.003A3.503 3.503 0 0 0 17.5 21a3.502 3.502 0 0 0 3.46-3.001H22l1-1V9.665L19.5 5z" fill="currentColor" fill-rule="evenodd"></path></svg></div>2 999 zł</p>
+___________________________________________________________
+<h6 class="css-v3vynn-Text eu5v0x0">ZOTAC GeForce RTX 3070 Ti AMP</h6>
+ <p class="css-wpfvmn-Text eu5v0x0" data-testid="ad-price">2 800 zł<span class="css-e2218f">do negocjacji</span></p>
+___________________________________________________________
+<h6 class="css-v3vynn-Text eu5v0x0">Legion 7 16ACHG6 Ryzen 7 RTX 3070 16GB 512NVME 4K 165Hz RGB</h6>
+ <p class="css-wpfvmn-Text eu5v0x0" data-testid="ad-price">6 000 zł</p>
+___________________________________________________________
+<h6 class="css-v3vynn-Text eu5v0x0">Karta graficzna Inno3D GeForce RTX 3070 X3 Nvidia 8GB GDDR6</h6>
+ <p class="css-wpfvmn-Text eu5v0x0" data-testid="ad-price">2 600 zł</p>
+___________________________________________________________
+<h6 class="css-v3vynn-Text eu5v0x0">ASUS GeForce RTX 3070 DUAL OC 8GB GDDR6 Gwarancja</h6>
+ <p class="css-wpfvmn-Text eu5v0x0" data-testid="ad-price"><div class="css-1c0ed4l"><svg class="css-1ojrdd5" height="1em" viewbox="0 0 24 24" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M21 15.999h-.343A3.501 3.501 0 0 0 17.5 14a3.501 3.501 0 0 0-3.156 1.997l-4.687.002A3.5 3.5 0 0 0 6.5 14a3.5 3.5 0 0 0-3.158 2L3 16.002V5h11v6l1 1h6v3.999zM17.5 19c-.827 0-1.5-.673-1.5-1.5s.673-1.5 1.5-1.5 1.5.673 1.5 1.5-.673 1.5-1.5 1.5zm-11 0c-.827 0-1.5-.673-1.5-1.5S5.673 16 6.5 16s1.5.673 1.5 1.5S7.327 19 6.5 19zm12-12 2.25 3H16V7h2.5zm1-2H16V4l-1-1H2L1 4v13.002l1.001 1 1.039-.001A3.503 3.503 0 0 0 6.5 21a3.502 3.502 0 0 0 3.46-3l4.08-.003A3.503 3.503 0 0 0 17.5 21a3.502 3.502 0 0 0 3.46-3.001H22l1-1V9.665L19.5 5z" fill="currentColor" fill-rule="evenodd"></path></svg></div>2 599 zł</p>
+___________________________________________________________
+<h6 class="css-v3vynn-Text eu5v0x0">Koparka kryptowalut 785Mhs. 7xRTX 3070 i 6xRTX 3060ti. Super cena !</h6>
+ <p class="css-wpfvmn-Text eu5v0x0" data-testid="ad-price">28 950 zł</p>
+___________________________________________________________
+<h6 class="css-v3vynn-Text eu5v0x0">i7 Extreme 20x 4,3 GHz, RX 6700 XT 12GB, 16GB Ram, SSD 2TB, 1000 Watt</h6>
+ <p class="css-wpfvmn-Text eu5v0x0" data-testid="ad-price">6 000 zł</p>
+___________________________________________________________
+<h6 class="css-v3vynn-Text eu5v0x0">Laptop gamingowy ASUS ROG Strix Scar G15 RTX3070 Ryzen 9 2K 165Hz</h6>
+ <p class="css-wpfvmn-Text eu5v0x0" data-testid="ad-price">6 999 zł</p>
+___________________________________________________________
+<h6 class="css-v3vynn-Text eu5v0x0">ZOTAC RTX 3070 TI Trinity OC</h6>
+ <p class="css-wpfvmn-Text eu5v0x0" data-testid="ad-price"><div class="css-1c0ed4l"><svg class="css-1ojrdd5" height="1em" viewbox="0 0 24 24" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M21 15.999h-.343A3.501 3.501 0 0 0 17.5 14a3.501 3.501 0 0 0-3.156 1.997l-4.687.002A3.5 3.5 0 0 0 6.5 14a3.5 3.5 0 0 0-3.158 2L3 16.002V5h11v6l1 1h6v3.999zM17.5 19c-.827 0-1.5-.673-1.5-1.5s.673-1.5 1.5-1.5 1.5.673 1.5 1.5-.673 1.5-1.5 1.5zm-11 0c-.827 0-1.5-.673-1.5-1.5S5.673 16 6.5 16s1.5.673 1.5 1.5S7.327 19 6.5 19zm12-12 2.25 3H16V7h2.5zm1-2H16V4l-1-1H2L1 4v13.002l1.001 1 1.039-.001A3.503 3.503 0 0 0 6.5 21a3.502 3.502 0 0 0 3.46-3l4.08-.003A3.503 3.503 0 0 0 17.5 21a3.502 3.502 0 0 0 3.46-3.001H22l1-1V9.665L19.5 5z" fill="currentColor" fill-rule="evenodd"></path></svg></div>2 900 zł</p>
+___________________________________________________________
+<h6 class="css-v3vynn-Text eu5v0x0">MEDION Erazer Beast X20 i7 RTX 3070 32GB 2TB Nvme 2K 165Hz W10</h6>
+ <p class="css-wpfvmn-Text eu5v0x0" data-testid="ad-price">4 750 zł</p>
+___________________________________________________________
+<h6 class="css-v3vynn-Text eu5v0x0">Gigabyte RTX 3070 8GB AORUS Master REV 2.0 LHR Karta graficzna do gier</h6>
+ <p class="css-wpfvmn-Text eu5v0x0" data-testid="ad-price">2 650 zł</p>
+___________________________________________________________
+<h6 class="css-v3vynn-Text eu5v0x0">rtx 3070 ventus x2 nvidia msi</h6>
+ <p class="css-wpfvmn-Text eu5v0x0" data-testid="ad-price">2 600 zł</p>
+___________________________________________________________
+<h6 class="css-v3vynn-Text eu5v0x0">Karta Graficzna Gigabyte GeForce RTX 3070 Vision</h6>
+ <p class="css-wpfvmn-Text eu5v0x0" data-testid="ad-price">2 800 zł</p>
+___________________________________________________________
+<h6 class="css-v3vynn-Text eu5v0x0">ASUS TUF Gaming GeForce RTX 3070 Ti 8GB</h6>
+ <p class="css-wpfvmn-Text eu5v0x0" data-testid="ad-price"><div class="css-1c0ed4l"><svg class="css-1ojrdd5" height="1em" viewbox="0 0 24 24" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M21 15.999h-.343A3.501 3.501 0 0 0 17.5 14a3.501 3.501 0 0 0-3.156 1.997l-4.687.002A3.5 3.5 0 0 0 6.5 14a3.5 3.5 0 0 0-3.158 2L3 16.002V5h11v6l1 1h6v3.999zM17.5 19c-.827 0-1.5-.673-1.5-1.5s.673-1.5 1.5-1.5 1.5.673 1.5 1.5-.673 1.5-1.5 1.5zm-11 0c-.827 0-1.5-.673-1.5-1.5S5.673 16 6.5 16s1.5.673 1.5 1.5S7.327 19 6.5 19zm12-12 2.25 3H16V7h2.5zm1-2H16V4l-1-1H2L1 4v13.002l1.001 1 1.039-.001A3.503 3.503 0 0 0 6.5 21a3.502 3.502 0 0 0 3.46-3l4.08-.003A3.503 3.503 0 0 0 17.5 21a3.502 3.502 0 0 0 3.46-3.001H22l1-1V9.665L19.5 5z" fill="currentColor" fill-rule="evenodd"></path></svg></div>3 000 zł</p>
+___________________________________________________________
+<h6 class="css-v3vynn-Text eu5v0x0">PNY RTX 3070ti 8GB Gwarancja</h6>
+ <p class="css-wpfvmn-Text eu5v0x0" data-testid="ad-price"><div class="css-1c0ed4l"><svg class="css-1ojrdd5" height="1em" viewbox="0 0 24 24" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M21 15.999h-.343A3.501 3.501 0 0 0 17.5 14a3.501 3.501 0 0 0-3.156 1.997l-4.687.002A3.5 3.5 0 0 0 6.5 14a3.5 3.5 0 0 0-3.158 2L3 16.002V5h11v6l1 1h6v3.999zM17.5 19c-.827 0-1.5-.673-1.5-1.5s.673-1.5 1.5-1.5 1.5.673 1.5 1.5-.673 1.5-1.5 1.5zm-11 0c-.827 0-1.5-.673-1.5-1.5S5.673 16 6.5 16s1.5.673 1.5 1.5S7.327 19 6.5 19zm12-12 2.25 3H16V7h2.5zm1-2H16V4l-1-1H2L1 4v13.002l1.001 1 1.039-.001A3.503 3.503 0 0 0 6.5 21a3.502 3.502 0 0 0 3.46-3l4.08-.003A3.503 3.503 0 0 0 17.5 21a3.502 3.502 0 0 0 3.46-3.001H22l1-1V9.665L19.5 5z" fill="currentColor" fill-rule="evenodd"></path></svg></div>2 999 zł</p>
+___________________________________________________________
+<h6 class="css-v3vynn-Text eu5v0x0">ASUS tuf gaming A17 FA706QR RTX3070 R7-5800H</h6>
+ <p class="css-wpfvmn-Text eu5v0x0" data-testid="ad-price">5 000 zł</p>
+___________________________________________________________
+<h6 class="css-v3vynn-Text eu5v0x0">Nowa, zaplombowana Nvidia EVGA RTX 3070 FTW3</h6>
+ <p class="css-wpfvmn-Text eu5v0x0" data-testid="ad-price">3 299 zł<span class="css-e2218f">do negocjacji</span></p>
+___________________________________________________________
+<h6 class="css-v3vynn-Text eu5v0x0">Nowa koparka kryptowalut 6xRTX 3070. BTC, ETH i wiele innych.</h6>
+ <p class="css-wpfvmn-Text eu5v0x0" data-testid="ad-price">24 900 zł</p>
+___________________________________________________________
+<h6 class="css-v3vynn-Text eu5v0x0">MSI GL66 Laptop Gamingowy, RTX 3070, Intel Core i7-11800H, 16gb Ram</h6>
+ <p class="css-wpfvmn-Text eu5v0x0" data-testid="ad-price">5 000 zł<span class="css-e2218f">do negocjacji</span></p>
+___________________________________________________________
+<h6 class="css-v3vynn-Text eu5v0x0">Koparka kryptowalut - 5 x RTX 3070 bez LHR</h6>
+ <p class="css-wpfvmn-Text eu5v0x0" data-testid="ad-price">22 515 zł<span class="css-e2218f">do negocjacji</span></p>
+___________________________________________________________
+<h6 class="css-v3vynn-Text eu5v0x0">MSI GP76 Vector 360Hz i7-12700H RTX3070 TI 150W 1TB 16GB Nowy Morele</h6>
+ <p class="css-wpfvmn-Text eu5v0x0" data-testid="ad-price">8 699 zł<span class="css-e2218f">do negocjacji</span></p>
+___________________________________________________________
+<h6 class="css-v3vynn-Text eu5v0x0">Nowa Karta graficzna GIGABYTE GeForce RTX 3070 Ti Vision OC 8GB</h6>
+ <p class="css-wpfvmn-Text eu5v0x0" data-testid="ad-price">3 100 zł</p>
+___________________________________________________________
+<h6 class="css-v3vynn-Text eu5v0x0">Karta graficzna PowerColor Hellhound AMD Radeon RX 6700 XT 12GB GDDR6</h6>
+ <p class="css-wpfvmn-Text eu5v0x0" data-testid="ad-price"><div class="css-1c0ed4l"><svg class="css-1ojrdd5" height="1em" viewbox="0 0 24 24" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M21 15.999h-.343A3.501 3.501 0 0 0 17.5 14a3.501 3.501 0 0 0-3.156 1.997l-4.687.002A3.5 3.5 0 0 0 6.5 14a3.5 3.5 0 0 0-3.158 2L3 16.002V5h11v6l1 1h6v3.999zM17.5 19c-.827 0-1.5-.673-1.5-1.5s.673-1.5 1.5-1.5 1.5.673 1.5 1.5-.673 1.5-1.5 1.5zm-11 0c-.827 0-1.5-.673-1.5-1.5S5.673 16 6.5 16s1.5.673 1.5 1.5S7.327 19 6.5 19zm12-12 2.25 3H16V7h2.5zm1-2H16V4l-1-1H2L1 4v13.002l1.001 1 1.039-.001A3.503 3.503 0 0 0 6.5 21a3.502 3.502 0 0 0 3.46-3l4.08-.003A3.503 3.503 0 0 0 17.5 21a3.502 3.502 0 0 0 3.46-3.001H22l1-1V9.665L19.5 5z" fill="currentColor" fill-rule="evenodd"></path></svg></div>2 100 zł<span class="css-e2218f">do negocjacji</span></p>
+___________________________________________________________
+<h6 class="css-v3vynn-Text eu5v0x0">Laptop MSI Raider GE76 17,3"/i7/16GB/1TB/Win10 - NOWY</h6>
+ <p class="css-wpfvmn-Text eu5v0x0" data-testid="ad-price">7 000 zł</p>
+___________________________________________________________
+<h6 class="css-v3vynn-Text eu5v0x0">Karta graficzna GeForce RTX 3070 Ti ROG STRIX 8G OC Poznań Długa 14</h6>
+ <p class="css-wpfvmn-Text eu5v0x0" data-testid="ad-price"><div class="css-1c0ed4l"><svg class="css-1ojrdd5" height="1em" viewbox="0 0 24 24" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M21 15.999h-.343A3.501 3.501 0 0 0 17.5 14a3.501 3.501 0 0 0-3.156 1.997l-4.687.002A3.5 3.5 0 0 0 6.5 14a3.5 3.5 0 0 0-3.158 2L3 16.002V5h11v6l1 1h6v3.999zM17.5 19c-.827 0-1.5-.673-1.5-1.5s.673-1.5 1.5-1.5 1.5.673 1.5 1.5-.673 1.5-1.5 1.5zm-11 0c-.827 0-1.5-.673-1.5-1.5S5.673 16 6.5 16s1.5.673 1.5 1.5S7.327 19 6.5 19zm12-12 2.25 3H16V7h2.5zm1-2H16V4l-1-1H2L1 4v13.002l1.001 1 1.039-.001A3.503 3.503 0 0 0 6.5 21a3.502 3.502 0 0 0 3.46-3l4.08-.003A3.503 3.503 0 0 0 17.5 21a3.502 3.502 0 0 0 3.46-3.001H22l1-1V9.665L19.5 5z" fill="currentColor" fill-rule="evenodd"></path></svg></div>3 499 zł</p>
+___________________________________________________________
+<h6 class="css-v3vynn-Text eu5v0x0">Komputer RTX 3070Ti , i5 12500, 16GB Ram , Dysk M.2 1TB.</h6>
+ <p class="css-wpfvmn-Text eu5v0x0" data-testid="ad-price">5 200 zł</p>
+___________________________________________________________
+<h6 class="css-v3vynn-Text eu5v0x0">Sprzedam MSI RTX 3070TI X TRIO</h6>
+ <p class="css-wpfvmn-Text eu5v0x0" data-testid="ad-price">3 500 zł</p>
+___________________________________________________________
+<h6 class="css-v3vynn-Text eu5v0x0">Laptop Acer Predator Helios 300 RTX 3070</h6>
+ <p class="css-wpfvmn-Text eu5v0x0" data-testid="ad-price">4 300 zł<span class="css-e2218f">do negocjacji</span></p>
+___________________________________________________________
+<h6 class="css-v3vynn-Text eu5v0x0">Komputer gamingowy / RYZEN 5600 / RTX 3070 / 16GB RAM / SSD 2x500GB</h6>
+ <p class="css-wpfvmn-Text eu5v0x0" data-testid="ad-price">5 699 zł</p>
+___________________________________________________________
+<h6 class="css-v3vynn-Text eu5v0x0">SUPER komputer i7 7700 GTX 1080Ti 11GB 16GB RAM SSD</h6>
+ <p class="css-wpfvmn-Text eu5v0x0" data-testid="ad-price">3 399 zł<span class="css-e2218f">do negocjacji</span></p>
+___________________________________________________________
+<h6 class="css-v3vynn-Text eu5v0x0">Komputer do gier z i9 10850k | RTX 3070 | 32GB DDR4 | 1 TB + 128 SSD</h6>
+ <p class="css-wpfvmn-Text eu5v0x0" data-testid="ad-price">7 000 zł</p>
+___________________________________________________________
+<h6 class="css-v3vynn-Text eu5v0x0">Koparka 360 mh/s  RTX3070 Ti RTX3060 Ti Gwarancja! Kryptowalut</h6>
+ <p class="css-wpfvmn-Text eu5v0x0" data-testid="ad-price">17 500 zł</p>
+___________________________________________________________
+<h6 class="css-v3vynn-Text eu5v0x0">Komputer Gamingowy z i9 10850k | RTX 3070 | 32GB DDR4 | 1 TB + 128 SSD</h6>
+ <p class="css-wpfvmn-Text eu5v0x0" data-testid="ad-price">6 999 zł</p>
+___________________________________________________________
+<h6 class="css-v3vynn-Text eu5v0x0">Komputer Gamingowy RTX 3070/Ryzen 5600X</h6>
+ <p class="css-wpfvmn-Text eu5v0x0" data-testid="ad-price">5 300 zł</p>
+___________________________________________________________
+<h6 class="css-v3vynn-Text eu5v0x0">RTX 3070 bez LHR Asus Dual 8GB</h6>
+ <p class="css-wpfvmn-Text eu5v0x0" data-testid="ad-price">2 650 zł</p>
+___________________________________________________________
+<h6 class="css-v3vynn-Text eu5v0x0">Karta Graficzna MSI GeForce RTX 3070Ti Gaming X Trio 8GB NOWA BEZ LHR</h6>
+ <p class="css-wpfvmn-Text eu5v0x0" data-testid="ad-price">3 500 zł</p>
+___________________________________________________________
+<h6 class="css-v3vynn-Text eu5v0x0">Laptop MSI GS66 Stealth 10UG z RTX 3070</h6>
+ <p class="css-wpfvmn-Text eu5v0x0" data-testid="ad-price">8 000 zł<span class="css-e2218f">do negocjacji</span></p>
+___________________________________________________________
+<h6 class="css-v3vynn-Text eu5v0x0">Komputer G4M3R 600 i7-11700K/16GB/1TB/RTX3070Ti</h6>
+ <p class="css-wpfvmn-Text eu5v0x0" data-testid="ad-price">7 000 zł</p>
+___________________________________________________________
+<h6 class="css-v3vynn-Text eu5v0x0">Komputer gamingowy rtx 3070ti ryzen 5 5600x</h6>
+ <p class="css-wpfvmn-Text eu5v0x0" data-testid="ad-price">6 500 zł<span class="css-e2218f">do negocjacji</span></p>
+___________________________________________________________
+<h6 class="css-v3vynn-Text eu5v0x0">Palit GameRock GeForce GTX 1080 8GB</h6>
+ <p class="css-wpfvmn-Text eu5v0x0" data-testid="ad-price">1 000 zł</p>
+___________________________________________________________
+<h6 class="css-v3vynn-Text eu5v0x0">Komputer Intel Core i9 11900K, Zotac RTX3070ti, 32GB Crucial Ballistix</h6>
+ <p class="css-wpfvmn-Text eu5v0x0" data-testid="ad-price">8 700 zł<span class="css-e2218f">do negocjacji</span></p>
+___________________________________________________________
+<h6 class="css-v3vynn-Text eu5v0x0">Laptop 15.6" Rog Strix G15 G513QR - RTX3070 - 1TB</h6>
+ <p class="css-wpfvmn-Text eu5v0x0" data-testid="ad-price">5 700 zł</p>
+
+Process finished with exit code 0
