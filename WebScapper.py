@@ -58,6 +58,7 @@ def ScrapWebPages(SESSION):
 
 if __name__ == '__main__':
 
+    #
     SESSION = requests.Session()
     ScrapWebPages(SESSION)
 
