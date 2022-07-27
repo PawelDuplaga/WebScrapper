@@ -4,7 +4,6 @@ import requests
 from bs4 import BeautifulSoup
 from requests import get
 from lxml import etree
-import lxml
 import cchardet
 
 def scrapXPATH(URL,XPATH):

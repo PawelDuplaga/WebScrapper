@@ -1,9 +1,19 @@
 {
   "URLS" : [
     {
-      "Name" : "RTX 3070",
-      "URL" : "",
-      "JS-PATH": ""
+      "Name" : "Wiki title",
+      "URL" : "https://pl.wikipedia.org/wiki/Wiki",
+      "XPATH": "//*[@id=\"firstHeading\"]"
+    },
+    {
+      "Name" : "Zalando 9N1M SENSE SNAKE HOODIE",
+      "URL" : "https://www.zalando.pl/9n1m-sense-sense-snake-hoodie-bluza-black-9n021004k-q11.html?size=M",
+      "XPATH": "//*[@id=\"main-content\"]/div[1]/div/div/div[2]/x-wrapper-re-1-4/div/div[2]/div/div[1]/div[1]/p[1]"
+    },
+    {
+      "Name" : "PRAY LABEL HOODIE UNISEX",
+      "URL" : "https://www.zalando.pl/pray-label-hoody-unisex-bluza-z-kapturem-black-prt21003d-q11.html",
+      "XPATH": "//*[@id=\"main-content\"]/div[1]/div/div/div[2]/x-wrapper-re-1-4/div/div[2]/div/div[1]/div[1]/p[1]"
     }
   ]
 }

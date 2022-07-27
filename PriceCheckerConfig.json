@@ -1,0 +1,25 @@
+{
+  "Instances" : [
+    {
+      "InstanceName": "Zalando",
+      "Interval" : 1000,
+      "URLS" : [
+        "https://www.zalando.pl/9n1m-sense-sense-snake-hoodie-bluza-black-9n021004k-q11.html?size=M",
+        "https://www.zalando.pl/pray-label-hoody-unisex-bluza-z-kapturem-black-prt21003d-q11.html",
+        "https://www.zalando.pl/9n1m-sense-motel-la-logo-hoodie-unisex-bluza-z-kapturem-black-9n0210056-q11.html",
+        "https://www.zalando.pl/9n1m-sense-motel-la-logo-hoodie-unisex-bluza-z-kapturem-black-9n0210056-q11.html",
+        "https://www.zalando.pl/9n1m-sense-sense-heartbreak-hotel-keychain-hoodie-bluza-z-kapturem-black-9n0210053-q11.html",
+        "https://www.zalando.pl/pegador-spodnie-treningowe-blacksmoke-grey-pep21005f-q11.html",
+        "https://www.zalando.pl/jordan-air-1-sneakersy-niskie-joc12o006-a13.html",
+        "https://www.zalando.pl/nike-sportswear-air-force-1-07-sneakersy-niskie-white-ni112n022-a11.html",
+        "https://www.zalando.pl/9n1m-sense-logo-unisex-szorty-black-9n021004h-q11.html"
+      ],
+      "ItemsToScrapXPATH" : {
+        "Marka" : "//*[@id=\"main-content\"]/div[1]/div/div/div[2]/x-wrapper-re-1-4/div/div[1]/a/span/h3",
+        "Przedmiot" : "//*[@id=\"main-content\"]/div[1]/div/div/div[2]/x-wrapper-re-1-4/div/h1/span",
+        "Cena": "//*[@id=\"main-content\"]/div[1]/div/div/div[2]/x-wrapper-re-1-4/div/div[2]/div/div[1]/div[1]/p[1]"
+      }
+    }
+  ]
+}
+

@@ -1,0 +1,21 @@
+[
+  {
+      "InstanceName": "Adidas",
+      "Interval" : 1000,
+      "ItemsToScrapXPATH" : {
+        "Przedmiot" : "//*[@id=\"main-content\"]/div[2]/div[2]/div[1]/h1/span",
+        "Cena" : "//*[@id=\"main-content\"]/div[2]/div[2]/div[1]/div[2]/div[1]/div/div/div[1]",
+        "Cena po przecenie": "//*[@id=\"main-content\"]/div[2]/div[2]/div[1]/div[2]/div[1]/div/div/div[2]"
+      }
+    },
+    {
+      "InstanceName": "InstanceName3",
+      "Interval" : 1000,
+      "ItemsToScrapXPATH" : {
+        "Przedmiot": "//*[@id=\"pdp_product_title\"]",
+        "Cena": "//*[@id=\"RightRail\"]/div/div[1]/div/div[2]/div/div/div/div/div",
+        "Cena przed przecena": "//*[@id=\"RightRail\"]/div/div[1]/div/div[2]/div/div/div/div/div[2]/text()",
+        "Rabat procent": "//*[@id=\"RightRail\"]/div/div[1]/div/div[2]/div/div/span"
+      }
+    }
+]
